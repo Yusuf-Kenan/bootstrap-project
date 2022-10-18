@@ -1,0 +1,44 @@
+.slidepic{
+    height: 100vh;
+}
+body{
+    padding-top: 55px;
+}
+
+.header-name{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.icon{
+    position: relative;
+    top: -54px;
+    color: white;
+    border: 25px solid secondary;
+    font-size: 45px;
+    
+}
+
+.hr{
+    border: 3px solid white;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.icon-products{
+    position: relative;
+    top: -54px;
+    border: 25px solid secondary;
+    font-size: 45px;
+    
+}
+
+.hr-products{
+    border: 3px solid;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.products img:hover{
+    opacity: 0.8;
+}
